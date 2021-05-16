@@ -1,0 +1,6 @@
+-
+  name: 'Check connection to host'
+  hosts: All_Nodes
+  tasks:
+      - name: 'Ping test'
+        ping:
