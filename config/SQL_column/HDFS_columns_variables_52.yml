@@ -1,0 +1,56 @@
+# 要挑選的欄位
+selected_columns:
+  - Current_Ratio
+  - oper_cashflow_liab
+  - current_liab_current_assets
+  - working_capital_assets
+  - Net_Sales_Assets
+  - Receivables_Turnover_Ratio
+  - Inventory_Turnover
+  - Fixed_Assets_Turnover
+  - net_worth_turnover_ratio
+  - INV_AR_Equity    
+  - l16
+  - l17
+  - l18
+  - Rate_of_RD_expenses
+  - Revenue_Growth_Rate
+  - Operating_gross_profit_growth_rate
+  - Net_profit_growth_rate_before_tax
+  - l10
+  - l11
+  - Gross_margin
+  - realized_gross_profit_on_sales 
+  - Operating_margin 
+  - earning_before_tax_margin 
+  - Operating_Expense_Ratio 
+  - Total_Non_Op_Income_Exp
+  - Net_Asset_Value_per_Share_F
+  - l2
+  - l3
+  - l4
+  - Return_on_Operating_Assets 
+  - net_income_change_rate
+  - Retained_earnings_assets
+  - Income_Before_Tax_and_Interests_assets
+  - debt_ratio
+  - Interest_Coverage_Ratio
+  - Cash_flow_ratio
+  - ration_of_interest_expense
+  - l1
+  - Debt_Equity_Ratio
+  - Equity_Asset_Ratio
+  - Ratio_of_liab_to_assets
+  - Debt_Eqity_rate
+  - i69
+  - i71
+  - fin_depen_related_parties
+  - ratio_invest_equity
+  - ratio_invest_assets
+  - ratio_endorsement_equity   
+  - adj_laib_equity
+  - ratio_director_shareholder_holding
+  - ratio_majority shareholder
+  - ratio_director_shareholder_Pledge
+ 
+
